@@ -1,0 +1,33 @@
+
+body{
+    font: 20px arial serif;
+}
+
+h3{
+    text-transform: uppercase;
+}
+
+.navbar{
+    background-color: #22f8f2;
+}
+
+.quem-somos{
+    background-color: #22baf8;
+    color: blanchedalmond;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.parceiros{
+    background-color: #009bda;
+    color: purple;
+}
+
+.bg-footer{
+    background-color: brown;
+    color: antiquewhite;
+}
+
